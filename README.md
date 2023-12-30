@@ -1,5 +1,8 @@
 # Object Detection
 
+## 2-Stage
+---
+
 ### R-CNN
 - Archieve: https://arxiv.org/abs/1311.2524
 - [Implementation]()
@@ -14,30 +17,21 @@
 - Archieve: https://arxiv.org/abs/1506.01497 
 - [Implementation]()
 
+## 1-Stage
+---
 
-### SSD
-- Archieve: https://arxiv.org/abs/1512.02325
+### OverFeat
+- Archieve: https://arxiv.org/abs/1312.6229
 - [Implementation]()
-
-
-### FCN
-- Archieve: https://arxiv.org/abs/1411.4038
-- [Implementation]()
-
-
-
-### Mask R-CNN
-- Archieve: https://arxiv.org/abs/1703.06870
-- [Implementation]()
-
-
-### YOLO Summary
-- Archieve: https://arxiv.org/abs/2304.00501
-- Reference: https://docs.ultralytics.com/#yolo-a-brief-history
 
 
 ### YOLOv1
 - Archieve: https://arxiv.org/abs/1506.02640
+- [Implementation]()
+
+
+### SSD
+- Archieve: https://arxiv.org/abs/1512.02325
 - [Implementation]()
 
 
@@ -46,8 +40,18 @@
 - [Implementation]()
 
 
+### RetinaNet
+- Archieve: https://arxiv.org/abs/1708.02002
+- [Implementation]()
+
+
 ### YOLOv3
 - Archieve: https://arxiv.org/abs/1804.02767
+- [Implementation]()
+
+
+### RefineNet
+- Archieve: https://arxiv.org/abs/1611.06612
 - [Implementation]()
 
 
@@ -76,4 +80,18 @@
 - Blog: https://voxel51.com/blog/giving-yolov8-a-second-look-part-1/
 - [Implementation]()
 
+
+### YOLO Summary
+- Archieve: https://arxiv.org/abs/2304.00501
+- Reference: https://docs.ultralytics.com/#yolo-a-brief-history
+
+
+### FCN
+- Archieve: https://arxiv.org/abs/1411.4038
+- [Implementation]()
+
+
+### Mask R-CNN
+- Archieve: https://arxiv.org/abs/1703.06870
+- [Implementation]()
 
